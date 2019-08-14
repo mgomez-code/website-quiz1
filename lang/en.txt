@@ -1,0 +1,7 @@
+titulo-web=>Meetup Quiz
+hola=>Hello Wo2rld2
+titulo=>Meetup Quiz2
+titulo2=>Conociendo de Blockchain de la mano de æternity2
+nombre=>Nombre2
+apellido=>Apellido2
+registro=>Registro2

@@ -1,0 +1,82 @@
+[
+	{
+		"pregunta": "What is blockchain?",
+		"opc0": "Database distributed and secure",
+		"opc1": "Bitcoin",
+		"opc2": "DLT (Distributed Ledger Technology)",
+		"opc3": "1 y 3",
+		"resp":	3
+	},
+	{
+		"pregunta": "What does Blockchain allow?",
+		"opc0": "Register Transactions and Contracts",
+		"opc1": "Modify the data contained in it",
+		"opc2": "Delete the data contained in it",
+		"opc3": "None of the above",
+		"resp":	0
+	},
+	{
+		"pregunta": "What is eæternity?",
+		"opc0": "Blockchain platform 3.0",
+		"opc1": "Exchange",
+		"opc2": "Programming language",
+		"opc3": "None of the above",
+		"resp":	0
+	},
+	{
+		"pregunta": "What blockchain problems solves æternity?",
+		"opc0": "Scalability",
+		"opc1": "Usability",
+		"opc2": "Availability of real world data",
+		"opc3": "All of the above",
+		"resp":	3
+	},
+	{
+		"pregunta": "How should the execution of smart contracts be?",
+		"opc0": "Safe",
+		"opc1": "Efficient",
+		"opc2": "Economical and Scalable",
+		"opc3": "All of the above",
+		"resp":	3
+	},
+	{
+		"pregunta": "In æternity, how are contracts handled? ...",
+		"opc0": "private on-chain",
+		"opc1": "public on-chain",
+		"opc2": "private off-chain",
+		"opc3": "public off-chain",
+		"resp":	2
+	},
+	{
+		"pregunta": "What is the algorithm that æternityy uses for PoW?",
+		"opc0": "Primecoin",
+		"opc1": "Hashcash",
+		"opc2": "Cockoo Cycle",
+		"opc3": "CryptoNight",
+		"resp":	2
+	},
+	{
+		"pregunta": "Æternityy's implementation core is written in ...",
+		"opc0": "C++",
+		"opc1": "Erlang",
+		"opc2": "Python",
+		"opc3": "ARust",
+		"resp":	1
+	},
+	{
+		"pregunta": "Status channels in æternity can be opened between ...",
+		"opc0": "2 parts",
+		"opc1": "3 parts",
+		"opc2": "4 parts",
+		"opc3": "Unlimited",
+		"resp":	0
+	},
+	{
+		"pregunta": "Smart Contracts in æternity are written in...",
+		"opc0": "Solidity",
+		"opc1": "Vype",
+		"opc2": "Sophia",
+		"opc3": "Bamboo",
+		"resp":	2
+	}
+]

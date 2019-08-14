@@ -1,0 +1,82 @@
+[
+	{
+		"pregunta": "¿Qué es Blockchain?",
+		"opc0": "Base de datos distribuida y segura",
+		"opc1": "Bitcoin",
+		"opc2": "DLT (Distributed Ledger Technology)",
+		"opc3": "1 y 3",
+		"resp":	3
+	},
+	{
+		"pregunta": "¿Qué permite Blockchain?",
+		"opc0": "Registrar Transacciones y Contratos",
+		"opc1": "Modificar los datos contenidos en ella",
+		"opc2": "Borrar los datos contenidos en ella",
+		"opc3": "Ninguna de las anteriores",
+		"resp":	0
+	},
+	{
+		"pregunta": "¿Qué es eæternity?",
+		"opc0": "Plataforma de Blockchain 3.0",
+		"opc1": "Exchange",
+		"opc2": "Lenguaje de Programacion",
+		"opc3": "Ninguna de las anteriores",
+		"resp":	0
+	},
+	{
+		"pregunta": "¿Qué problemas de blockchain resuelve æternity?",
+		"opc0": "Escalabilidad",
+		"opc1": "Usabilidad",
+		"opc2": "Disponibilidad de datos del mundo real",
+		"opc3": "Todas las anteriores",
+		"resp":	3
+	},
+	{
+		"pregunta": "¿Como debe ser la ejecución de los contratos inteligentes?",
+		"opc0": "Segura",
+		"opc1": "Eficiente",
+		"opc2": "Económica y Escalable",
+		"opc3": "Todas las Anteriores",
+		"resp":	3
+	},
+	{
+		"pregunta": "En æternity de que forma son manejados los contratos ...",
+		"opc0": "privada on-chain",
+		"opc1": "publica on-chain",
+		"opc2": "privada off-chain",
+		"opc3": "publica off-chain",
+		"resp":	2
+	},
+	{
+		"pregunta": "¿Cual es el algoritmo que usa æternity para PoW?",
+		"opc0": "Primecoin",
+		"opc1": "Hashcash",
+		"opc2": "Cockoo Cycle",
+		"opc3": "CryptoNight",
+		"resp":	2
+	},
+	{
+		"pregunta": "El core de implemetacion de æternityy esta escrito en ...",
+		"opc0": "C++",
+		"opc1": "Erlang",
+		"opc2": "Python",
+		"opc3": "ARust",
+		"resp":	1
+	},
+	{
+		"pregunta": "Los canales de estado en æternity pueden ser abiertos entre ...",
+		"opc0": "2 partes",
+		"opc1": "3 partes",
+		"opc2": "4 partes",
+		"opc3": "Ilimitadas",
+		"resp":	0
+	},
+	{
+		"pregunta": "Los Smart Contract en æternity son escritos en ...",
+		"opc0": "Solidity",
+		"opc1": "Vype",
+		"opc2": "Sophia",
+		"opc3": "Bamboo",
+		"resp":	2
+	}
+]

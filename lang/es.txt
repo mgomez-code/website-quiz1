@@ -1,0 +1,7 @@
+titulo-web=>Meetup Quiz
+hola=>Bienvenido
+titulo=>Meetup Quiz
+titulo2=>Conociendo de Blockchain de la mano de æternity
+nombre=>Nombre
+apellido=>Apellido
+registro=>Registro

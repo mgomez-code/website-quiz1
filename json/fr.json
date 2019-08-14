@@ -1,0 +1,82 @@
+[
+	{
+		"pregunta": "Qu'est ce que la blockchain?",
+		"opc0": "Base de données distribuée et sécurisée",
+		"opc1": "Bitcoin",
+		"opc2": "DLT (Technologie du grand livre distribué)",
+		"opc3": "1 y 3",
+		"resp":	3
+	},
+	{
+		"pregunta": "Que permet Blockchain?",
+		"opc0": "Enregistrement des transactions et des contrats",
+		"opc1": "Modifier les données qu'il contient",
+		"opc2": "Supprimer les données qu'il contient",
+		"opc3": "Aucune de ces réponses",
+		"resp":	0
+	},
+	{
+		"pregunta": "¿Qu'est que c'est eæternity?",
+		"opc0": "Plateforme Blockchain 3.0",
+		"opc1": "Exchange",
+		"opc2": "Langage de programmation",
+		"opc3": "Aucune de ces réponses",
+		"resp":	0
+	},
+	{
+		"pregunta": "Quels sont les problèmes de blockchain résolus par æternity?",
+		"opc0": "L'évolutivité",
+		"opc1": "Utilisabilité",
+		"opc2": "Disponibilité de données du monde réel",
+		"opc3": "Tout ce qui précède",
+		"resp":	3
+	},
+	{
+		"pregunta": "Comment devrait être l'exécution des contrats intelligents?",
+		"opc0": "Bien sûr",
+		"opc1": "Efficace",
+		"opc2": "Économique et évolutif",
+		"opc3": "Tous les précédents",
+		"resp":	3
+	},
+	{
+		"pregunta": "En æternity, comment sont gérés les contrats? ...",
+		"opc0": "privé on-chain",
+		"opc1": "poster on-chain",
+		"opc2": "privé off-chain",
+		"opc3": "poster off-chain",
+		"resp":	2
+	},
+	{
+		"pregunta": "Quel est l'algorithme utilisé par æternity pour PoW?",
+		"opc0": "Primecoin",
+		"opc1": "Hashcash",
+		"opc2": "Cockoo Cycle",
+		"opc3": "CryptoNight",
+		"resp":	2
+	},
+	{
+		"pregunta": "Le noyau d'implémentation d'Æternityy est écrit en ...",
+		"opc0": "C++",
+		"opc1": "Erlang",
+		"opc2": "Python",
+		"opc3": "ARust",
+		"resp":	1
+	},
+	{
+		"pregunta": "Les canaux de statut en æternity peuvent être ouverts entre ...",
+		"opc0": "2 parties",
+		"opc1": "3 pparties",
+		"opc2": "4 parties",
+		"opc3": "Illimité",
+		"resp":	0
+	},
+	{
+		"pregunta": "Smart Contracts in æternity sont écrits en ...",
+		"opc0": "Solidity",
+		"opc1": "Vype",
+		"opc2": "Sophia",
+		"opc3": "Bamboo",
+		"resp":	2
+	}
+]
