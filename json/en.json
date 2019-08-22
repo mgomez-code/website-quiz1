@@ -48,7 +48,7 @@
 		"resp":	2
 	},
 	{
-		"pregunta": "What is the algorithm that æternityy uses for PoW?",
+		"pregunta": "What is the algorithm that æternity uses for PoW?",
 		"opc0": "Primecoin",
 		"opc1": "Hashcash",
 		"opc2": "Cockoo Cycle",
@@ -64,7 +64,7 @@
 		"resp":	1
 	},
 	{
-		"pregunta": "Status channels in æternity can be opened between ...",
+		"pregunta": "State channels in æternity can be opened between ...",
 		"opc0": "2 parts",
 		"opc1": "3 parts",
 		"opc2": "4 parts",

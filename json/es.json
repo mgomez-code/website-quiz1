@@ -56,7 +56,7 @@
 		"resp":	2
 	},
 	{
-		"pregunta": "El core de implemetacion de æternityy esta escrito en ...",
+		"pregunta": "El core de implemetacion de æternity esta escrito en ...",
 		"opc0": "C++",
 		"opc1": "Erlang",
 		"opc2": "Python",
