@@ -16,7 +16,7 @@
 		"resp":	0
 	},
 	{
-		"pregunta": "What is eæternity?",
+		"pregunta": "What is æternity?",
 		"opc0": "Blockchain platform 3.0",
 		"opc1": "Exchange",
 		"opc2": "Programming language",
@@ -78,5 +78,21 @@
 		"opc2": "Sophia",
 		"opc3": "Bamboo",
 		"resp":	2
+	},
+	{
+		"pregunta": "The scalability in æternity is solved via...",
+		"opc0": "State Channels",
+		"opc1": "Protocols",
+		"opc2": "Programming language",
+		"opc3": "Oracles",
+		"resp":	0
+	},
+	{
+		"pregunta": "The oracles in æternity can be...",
+		"opc0": "People",
+		"opc1": "App",
+		"opc2": "Hardware",
+		"opc3": "All of the above",
+		"resp":	3
 	}
 ]

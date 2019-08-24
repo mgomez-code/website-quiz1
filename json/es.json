@@ -16,7 +16,7 @@
 		"resp":	0
 	},
 	{
-		"pregunta": "¿Qué es eæternity?",
+		"pregunta": "¿Qué es æternity?",
 		"opc0": "Plataforma de Blockchain 3.0",
 		"opc1": "Exchange",
 		"opc2": "Lenguaje de Programacion",
@@ -78,5 +78,21 @@
 		"opc2": "Sophia",
 		"opc3": "Bamboo",
 		"resp":	2
+	},
+	{
+		"pregunta": "La escalabilidad en æternity es resuelta via...",
+		"opc0": "Canales de Estado",
+		"opc1": "Protocolos",
+		"opc2": "Lenguaje de Programacion",
+		"opc3": "Oraculos",
+		"resp":	0
+	},
+	{
+		"pregunta": "Los oraculos en æternity pueden ser...",
+		"opc0": "Personas",
+		"opc1": "App",
+		"opc2": "Hardware",
+		"opc3": "Todas las Anteriores",
+		"resp":	3
 	}
 ]

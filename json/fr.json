@@ -78,5 +78,21 @@
 		"opc2": "Sophia",
 		"opc3": "Bamboo",
 		"resp":	2
+	},
+	{
+		"pregunta": "SL’évolutivité en æternité est résolue via...",
+		"opc0": "Canaux d'état",
+		"opc1": "Protocoles",
+		"opc2": "Langage de programmation",
+		"opc3": "Oracles",
+		"resp":	0
+	},
+	{
+		"pregunta": "Les oracles en æternity peuvent être...",
+		"opc0": "Les gens",
+		"opc1": "App",
+		"opc2": "Matériel informatique",
+		"opc3": "Tous les précédents",
+		"resp":	3
 	}
 ]
